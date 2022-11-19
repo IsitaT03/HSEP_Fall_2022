@@ -7,4 +7,5 @@ This project seeks to predict breast cancer mortality with AI and ML algorithms 
 
 Logistic Regression, Decision Tree, and Random Forest algorithms were implemented via sci-kit learn on a dataset of clinical information about breast cancer patients. The models were trained to predict mortality based on 6 variables: Tumor size, A Stage, Grade, Differentiation, Race, Status
 
-Project Presentation: https://docs.google.com/presentation/d/1pA5fzNfwH5kvyTra7aqCrjFDIkv-H_tWmr_-wYcy08o/edit?usp=sharing
+Project Presentation Slides: https://docs.google.com/presentation/d/1pA5fzNfwH5kvyTra7aqCrjFDIkv-H_tWmr_-wYcy08o/edit?usp=sharing
+Live Presentation Recording: To Be Posted
