@@ -1,0 +1,33 @@
+﻿T Stage: "T" followed by a number from 0-4 tells you how large the tumor is and sometimes where it's located.  Main tumor is usually called the primary tumor. 
+
+
+N Stage: The N refers to the number of nearby lymph nodes that have cancer. Higher the number after N, the more lymph nodes contain cancer. 
+ 
+6th Stage: refers to the six substages of the stages from IA to IIIC 
+
+
+[bonus] M stage: refers to whether cancer has metastasized. This means that the cancer has spread from the primary tumor to other body parts.
+
+
+Differentiate: In cancer, well-differentiated cancer cells look more like normal cells under a microscope and tend to grow and spread more slowly than poorly differentiated or undifferentiated cancer cells.
+
+
+Grade: 1, 2, or 3. A lower number indicates higher severity.  They are related to differentiation; 1 is well-differentiated where cells look the most like normal breast cells and spread slower, 2 is moderately differentiated, 3 is poorly differentiated and the cells no longer look normal, but they spread very fast
+
+
+A Stage: Regional: The cancer has spread outside the breast to nearby structures or lymph nodes. Distant: The cancer has spread to distant parts of the body such as the lungs, liver or bones.
+
+
+Tumor Size:  maximal size of the invasive component of the primary tumor on pathologic examination; size of the abnormal mass of tissue that forms when cells grow/divide more than they should 
+
+
+Estrogen Status: cells of this type of breast cancer have receptors that allow them to use the hormone estrogen to grow
+
+
+Progesterone Status: same as estrogen, except progesterone
+
+
+Regional Node Examined: Blood and lymph vessels form a network throughout each breast… When breast cancer spreads, it is frequent to these nodes.
+
+
+Regional Node Positive:
